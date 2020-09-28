@@ -9,7 +9,7 @@ pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
 
 echo
-figlet -f slant  "HACKING BY FAIZUL"|lolcat
+figlet -f slant  "HACKING"|lolcat
 
 figlet -f slant "😃$$$$"|lolcat
 sleep 1
