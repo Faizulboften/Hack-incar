@@ -9,42 +9,42 @@ pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
 
 echo
-figlet -f slant  "HACKING"|lolcat
+figlet -f slant  "HACKING BY FAIZUL"|lolcat
 
 figlet -f slant "😃$$$$"|lolcat
 sleep 1
 echo $bi"    =======================================|"
 echo $me"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> AUTHOR  : ANDIELIS            #"
+echo $ij"     #   >> AUTHOR  : FAIZULCYBER            #"
 echo $bi"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> GITHUB  : termuxandi          #"
+echo $ij"     #   >> GITHUB  : Faizulcyber          #"
 echo $bi"    =======================================|"
 echo $me"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> YOUTUBE : MR_Termux Andi      #"
+echo $ij"     #   >> YOUTUBE : Htc Ctr Gaming      #"
 echo $bi"    =======================================|"
 echo
 sleep 1
-echo $ku"         # ✓✓✓✓✓✓✓[ WELCOME ]✓✓✓✓✓✓✓ #"
+echo $ku"         # ︻दΩↂ̵̵๏ــــــــــــــــــــــــــــــــــــــــــــــــــــــــ๏๏ [ Selamat Datang di scrip ini ] ︻दΩↂ̵̵๏ــــــــــــــــــــــــــــــــــــــــــــــــــــــــ๏๏ #"
 sleep 1
 echo $pr"      # SELAMAT DATANG DI TOLLS HACKING #"
 sleep 1
-echo $ku"                # PILIH MENU #"
+echo $ku"                # PILIH MENU HACK #"
 
 echo
 echo $ki"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-echo $cy"@           💗💗💗💗💗💗               @@"
-echo $cy"@              sayang                  @@"
-echo $cy"@           💓💓💓💓💓💓               @@"
-echo $cy"@                🔥                    @@"
+echo $cy"@           ︻दΩↂ̵̵๏ــــــــــــــــــــــــــــــــــــــــــــــــــــــــ๏๏               @@"
+echo $cy"@              FaizulCyber                  @@"
+echo $cy"@           ︻दΩↂ̵̵๏ــــــــــــــــــــــــــــــــــــــــــــــــــــــــ๏๏               @@"
+echo $cy"@                                    @@"
 echo $ku"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 sleep 1
 echo
-echo $pr"[01] "$ku". No login dark FB"
+echo $pr"[01] "$ku". Hack Akun No Login"
 sleep 1
-echo $pr"[02] "$ku". BruteMBF FB"
+echo $pr"[02] "$ku". BruteMBF Hack Narget"
 sleep 1
 echo $pr"[03] "$ku". pishing FB"
 sleep 1
@@ -56,7 +56,7 @@ echo $pr"[06] "$ku". Sensei Crack Email/FB"
 sleep 1
 echo $pr"[07] "$ku". hacking tolls FB"
 sleep 1
-echo $pr"[08] "$ku". reportF FB"
+echo $pr"[08] "$ku". Matiin FB orang"
 sleep 1
 echo $pr"[09] "$ku". crack FB"
 sleep 1
@@ -66,7 +66,9 @@ echo $pr"[11] "$ku". autolike FB"
 sleep 1
 echo $pr"[12] "$ku". INSTALL BAHAN"
 sleep 1
-echo $pr"[13] "$ku". link youtube"
+echo $pr"[13] "$ku". SPAM UNLIMET
+sleep 1
+echo $pr"[14] "$ku". link youtube"
 echo
 echo $ku">>>>>>|"
 echo $ku">>>>>>|======>✓ : >>>>>>>"
@@ -186,5 +188,8 @@ fi
 #batas gan
 if [ $pil = 13 ]
 then
-echo "Kalau ingin lihat lebih lengkap kalian copy link youtube ini https://www.youtube.com/channel/UCBzB18lcyrAUkfilZTP195w" | lolcat
+git clone https://github.com/Aditya021/SpamCall
+cd SpamSms
+php SpamCall.php
 fi
+#batas gan
